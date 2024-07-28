@@ -1,0 +1,6 @@
+{
+    "require": {
+        "spatie/dropbox-api": "^1.22",
+        "kunalvarma05/dropbox-php-sdk": "^0.4.2"
+    }
+}
